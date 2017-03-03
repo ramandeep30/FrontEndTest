@@ -1,0 +1,36 @@
+
+.body {
+		   background-color: #000000	;
+	  }
+.l1 {
+	    color: blue;
+    }
+
+.topText {
+	color: green;
+	margin:20px 5px 15px 50px;
+	text-align: left;
+	text-decoration: none;
+	text-shadow: 3px 2px blue;
+	font-family: "Times New Roman", Times, serif;
+	font-size: 200px;
+}
+
+.middle {
+	color: #808080;
+	margin:10px 5px 15px 50px;
+	text-align: left;
+	text-decoration: none;
+    font-family: "Times New Roman", Times, serif;
+	font-size: 50px;
+
+}
+
+.bottom {
+    color: #808080;
+    margin:10px 5px 15px 50px;
+	text-align: left;
+	text-decoration: none;
+    font-family: "Times New Roman", Times, serif;
+	font-size: 30px;	
+}
